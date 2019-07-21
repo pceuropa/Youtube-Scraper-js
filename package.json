@@ -1,0 +1,16 @@
+{
+  "name": "youtube-scraper-js",
+  "version": "0.1.0",
+  "description": "Scrap youtube page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafal Marguzewicz",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "url-parse": "^1.4.7"
+  }
+}
