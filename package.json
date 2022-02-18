@@ -11,6 +11,6 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.0",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.6"
   }
 }
